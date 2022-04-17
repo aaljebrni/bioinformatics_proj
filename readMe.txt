@@ -1,4 +1,4 @@
-This is the code I created and used for the project of the Bioinformatics class
+This is the code I wrote and used for the project of the Bioinformatics class
 
 how to get the final results?
 you can directly run either bioinformatics_project_model_1DCNN_classifier.py or bioinformatics_project_model_DNN_classifier.py and they will consume the attached csv files!
